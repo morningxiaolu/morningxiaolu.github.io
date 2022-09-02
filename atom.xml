@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://morningxiaolu.github.io</id>
+    <title>早安小鹿的网站</title>
+    <updated>2022-09-02T13:40:50.260Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://morningxiaolu.github.io"/>
+    <link rel="self" href="https://morningxiaolu.github.io/atom.xml"/>
+    <subtitle>一个不务正业的程序媛</subtitle>
+    <logo>https://morningxiaolu.github.io/images/avatar.png</logo>
+    <icon>https://morningxiaolu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 早安小鹿的网站</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Xiaolu]]></title>
+        <id>https://morningxiaolu.github.io/post/hello-xiaolu/</id>
+        <link href="https://morningxiaolu.github.io/post/hello-xiaolu/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://morningxiaolu.github.io/post-images/1662125949031.jpg" alt="" loading="lazy"></figure>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
